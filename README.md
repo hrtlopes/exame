@@ -1,2 +1,2 @@
 # exame
-um breve teste sobre conhecimento do Framework vuejs
+Breve teste sobre conhecimento do Framework vuejs
